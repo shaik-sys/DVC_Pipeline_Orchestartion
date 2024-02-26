@@ -1,4 +1,4 @@
-# DVC__Pipiline_Orchestration_template
+# DVC Pipeline Orchestration template
 
 
 # This template shows how the orchestrartion is done between the components of the pipeline architecture
